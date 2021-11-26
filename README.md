@@ -1,0 +1,2 @@
+# WazirX-API
+WazirX APIs
